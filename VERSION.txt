@@ -1,0 +1,3 @@
+Jee OS
+Version 2.4.0
+Change: PCM Hourly Blocks — 1 hour per subject in each Morning/Night block; Notes Studio omitted. Existing syllabus, playlist links, Watch buttons, revision cycles, calendar, tests, duration data, local save and cloud sync are retained.
